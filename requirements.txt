@@ -1,0 +1,8 @@
+streamlit
+seaborn
+opencv-python
+numpy
+streamlit_webrtc
+pillow
+tensorflow
+scikit-learn
